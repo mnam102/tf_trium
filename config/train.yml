@@ -1,0 +1,4 @@
+BATCH_SIZE : 64
+SHAPE : (64, 64, 1)
+EPOCH : 500
+MODEL_CHECKPOINT_PATH : 'weights/best_all.h5'

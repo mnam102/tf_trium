@@ -1,0 +1,3 @@
+WEIGHT_PATH : 'weights/best_all.h5'
+BATCH_SIZE : 64
+TARGET : ['F1','F2','F3']
